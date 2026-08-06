@@ -129,7 +129,7 @@ const quizData = [
         answers: ["MSK-MOB-123456", "TOM-CSPKO-1488", "MSK-140798", "MAC-500000"],
         correct: 2,
         description: '💻 <strong>MSK-140798</strong> — откуда у вас эта информация?!',
-        videoUrl: "videos/Видео - Алина.mp4"
+        videoUrl: "videos/Видео-Алина.mp4"
     },
     {
         question: "Любимый вид удалённых рабочих столов у Насти.",
